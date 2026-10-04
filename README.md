@@ -373,6 +373,9 @@ AI & ML / Data Science Portfolio
 - LinkedIn: `Md Amaan Ali`
 
 ---
+## live demo
+[![🚀 Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-red?style=for-the-badge\&logo=streamlit)](YOUR_STREAMLIT_APP_URL)
+
 
 ## 📄 License
 
