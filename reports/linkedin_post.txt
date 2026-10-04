@@ -1,0 +1,24 @@
+🚀 Built a Breast Cancer Detection ML Project | Neural Networks + Responsible Evaluation
+
+For my internship project, I built a complete breast-cancer classification workflow using the supplied Wisconsin Diagnostic Breast Cancer dataset.
+
+🔍 What I implemented:
+• Data cleaning and leakage-safe preprocessing
+• Malignant vs. benign classification
+• A neural network with BatchNorm + Dropout + AdamW
+• Benchmarking against Logistic Regression, Random Forest and XGBoost
+• Confusion matrix, ROC-AUC, PR-AUC, sensitivity/recall and specificity
+• Validation-based threshold selection to prioritize malignant-case sensitivity
+• Permutation-based feature importance
+• Reusable inference workflow
+• A short visual demo video
+
+📊 Test-set headline: the final neural network achieved approximately 97% accuracy with high sensitivity on the held-out test set.
+
+⚠️ This is an educational ML project, not a medical diagnostic tool. Real clinical deployment requires prospective validation, calibration, clinical oversight, regulatory review and external datasets.
+
+I’m especially proud of the evaluation approach: in a cancer-screening context, accuracy alone is not enough. False negatives matter.
+
+#MachineLearning #DeepLearning #NeuralNetworks #BreastCancer #DataScience #Python #ArtificialIntelligence #HealthcareAI #Internship #InternPe
+
+@InternPe
