@@ -374,7 +374,7 @@ AI & ML / Data Science Portfolio
 
 ---
 ## live demo
-[![🚀 Live Demo](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-red?style=for-the-badge\&logo=streamlit)](YOUR_STREAMLIT_APP_URL)
+[![🚀 Live Demo](https://img.shields.io/badge/🚀%20LIVE%20DEMO-Streamlit-red?style=for-the-badge\&logo=streamlit)](https://breast-cancer-detection-fkibvhmwur8aen6r5lz7cu.streamlit.app/)
 
 
 ## 📄 License
